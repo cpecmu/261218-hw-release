@@ -7,8 +7,9 @@ public interface PeakFinder {
      * value(s) of its adjacent position(s).
      * This operation takes O(lg n) time, where n is the size of the array.
      * @param a the input array
-     * @return a position in {@code a} such that a[i] is at least a[i-1]
-     *          (if exists) and at least a[i+1] (if exists)
+     * @return a position {@code i} in {@code a} such that {@code a[i]}
+     *          is at least {@code a[i-1]} (if exists) and at least
+     *          {@code a[i+1]} (if exists)
      */
     int peakPosition(int[] a);
 
