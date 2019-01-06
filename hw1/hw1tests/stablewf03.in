@@ -1,0 +1,19 @@
+2
+C1 2
+C2 3
+7
+W1 C2 C1
+W2 C2 C1
+W3 C2 C1
+W4 C2 C1
+W5 C1 C2
+W6 C1 C2
+W7 C1 C2
+C1 W7 W1 W6 W2 W5 W3 W4
+C2 W1 W7 W2 W6 W3 W5 W4
+
+---
+Two companies (of capacity 2 and 3), seven workers.
+A stable matching is as follows:
+C1: W7 W6
+C2: W1 W2 W3

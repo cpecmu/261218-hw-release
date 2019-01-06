@@ -1,0 +1,17 @@
+3
+a
+b
+c
+3
+a b
+a c
+b c
+3
+c b
+c a
+b a
+
+---
+One shortest c-b path: cb;
+one shortest c-a path: ca;
+one shortest b-a path: ba.

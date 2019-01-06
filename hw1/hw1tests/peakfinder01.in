@@ -1,0 +1,6 @@
+7
+174 176 178 180 179 177 175
+
+---
+This array has a peak at position 3 (180).
+expected output: 3

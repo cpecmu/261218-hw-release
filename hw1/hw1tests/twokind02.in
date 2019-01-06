@@ -1,0 +1,13 @@
+3
+a
+b
+c
+3
+a b same
+a c same
+b c different
+
+---
+This result is inconsistent, because a and b are in the same category,
+and a and c are also in the same category, which means b and c must be
+in the same category.  This contradicts the last fact.

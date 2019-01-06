@@ -1,0 +1,13 @@
+3
+a
+b
+c
+3
+a b
+a c
+b c
+
+---
+This graph has 3 vertices {a, b, c} and 3 edges {ab, ac, bc},
+and has a topological ordering [a b c].
+expected output: (true, [a, b, c])

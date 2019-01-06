@@ -1,0 +1,6 @@
+7
+150 157 163 166 174 173 169
+
+---
+This array has a peak at position 4 (174).
+expected output: 4

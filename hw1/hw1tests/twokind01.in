@@ -1,0 +1,12 @@
+3
+a
+b
+c
+3
+a b same
+a c different
+b c different
+
+---
+This result is consistent, because we can put a and b in the first category,
+and c in the second category.

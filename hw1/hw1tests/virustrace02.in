@@ -1,0 +1,12 @@
+3
+C2 C3 8
+C1 C4 12
+C1 C2 14
+2
+C1 2 C2 14
+C1 2 C3 14
+
+---
+C2 is infected by time 14 via the following chain:
+- C1 infects C2 at time 14
+C3 is not infected

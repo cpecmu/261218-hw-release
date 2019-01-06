@@ -1,0 +1,21 @@
+2
+C1 3
+C2 2
+7
+W1 C1 C2
+W2 C1 C2
+W3 C1 C2
+W4 C2 C1
+W5 C2 C1
+W6 C2 C1
+W7 C2 C1
+C1 W7 W6 W5 W4 W3 W2 W1
+C2 W1 W2 W3 W4 W5 W6 W7
+
+---
+Two companies (of capacity 3 and 2), seven workers.
+Worker 1 prefers company 1 to company 2.
+Company 1 prefers worker 7 to worker 6, ..., worker 2 to worker 1.
+A stable matching is as follows:
+C1: W7 W6 W5
+C2: W1 W2

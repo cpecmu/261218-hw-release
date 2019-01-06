@@ -1,0 +1,19 @@
+4
+a
+b
+c
+d
+4
+a b
+a c
+b d
+c d
+3
+a c
+a d
+d a
+
+---
+One shortest a-c path: ac;
+two shortest a-d paths: abd, acd;
+two shortest d-a paths: dba, dca.

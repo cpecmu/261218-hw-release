@@ -1,0 +1,13 @@
+4
+C1 C2 4
+C2 C4 8
+C3 C4 8
+C1 C4 12
+1
+C1 2 C3 8
+
+---
+C3 is infected by time 8 via the following chain:
+- C1 infects C2 at time 4
+- C2 infects C4 at time 8
+- C4 infects C3 at time 8
