@@ -31,7 +31,8 @@ places for the Java compiler to look for.
 Sample test cases are located in the [hw?tests] directory under each assignment.
 If you use the Eclipse IDE, running the program should look for these files
 without much trouble, because the working directory is the main
-project directory, i.e., [hw?].  If you use other IDEs, you might need to change
+project directory, i.e., [hw?].  If you use other IDEs, you might need to set
+the working directory to point to [hw?tests] when running the code, or change
 the path of the file in the released programs to point to the correct location.
 Don't worry, our grader will find our own test cases at the right places
 regardless of how you change the string indicating the location of the
