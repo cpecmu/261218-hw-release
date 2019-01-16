@@ -7,7 +7,7 @@ import java.util.Set;
  * @author Chinawat
  *
  * @param <V> the vertex type
- * @param <V> the edge type
+ * @param <E> the edge type
  */
 public interface GenericGraph<V, E> {
 
