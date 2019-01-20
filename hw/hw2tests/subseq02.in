@@ -1,0 +1,16 @@
+3
+buy Yahoo
+buy eBay
+buy Oracle
+6
+buy Amazon
+buy eBay
+buy Yahoo
+buy Oracle
+buy Amazon
+
+---
+The patterns do not appear as a subsequence in the haystack.
+Even if all four items appear in the haystack, they do not appear as a
+subsequence, i.e., the order in which they appear does not match the
+initial order.

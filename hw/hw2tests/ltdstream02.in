@@ -1,0 +1,11 @@
+5 300
+1000 1
+1000 2
+1000 3
+1000 4
+1000 5
+
+---
+It is not possible to send these fives streams under the 1500-bit quota.
+(Sending (1000, 1) at any point would go over the quota.)
+Expected result: null

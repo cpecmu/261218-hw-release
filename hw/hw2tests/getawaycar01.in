@@ -1,0 +1,15 @@
+3
+3 2
+4 8
+8 2
+5
+7
+11
+
+---
+The timestamps [5, 7, 11] matches the estimates [3±2, 4±8, 8±2].
+- 5 matches with 3 (+2)
+- 7 matches with 8 (-1)
+- 11 matches with 4 (+7)
+Expected result:
+true

@@ -1,0 +1,16 @@
+4
+buy Yahoo
+buy eBay
+buy Yahoo
+buy Oracle
+6
+buy Amazon
+buy Yahoo
+buy eBay
+buy Yahoo
+buy Yahoo
+buy Oracle
+
+---
+The patterns appear as a subsequence in the haystack, because we can delete
+the first and fourth items from the haystack to make it equal to the patterns.

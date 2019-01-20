@@ -1,0 +1,11 @@
+3
+v1 2
+v2 2
+v3 2
+
+---
+Can build this graph.
+Expected result:
+v1: [v2, v3]
+v2: [v1, v3]
+v3: [v1, v2]
