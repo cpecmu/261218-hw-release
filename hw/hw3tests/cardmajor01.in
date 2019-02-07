@@ -1,0 +1,14 @@
+8
+1
+1
+1
+1
+1
+2
+3
+4
+
+-----
+First 5 cards are the same, the last three are different.
+There exists a majority of equivalent cards (any from 0-4).
+Expected answer: any of 0-4

@@ -1,0 +1,7 @@
+8
+77 56 17 63 31 37 71 35
+
+-----
+The significant inversions in the above list are as follows:
+(77, 17), (77, 31), (77, 37), (77, 35), (56, 17), (63, 31), (71, 35)
+Total: 7 significant inversions

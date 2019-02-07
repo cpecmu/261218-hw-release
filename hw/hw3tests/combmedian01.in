@@ -1,0 +1,7 @@
+4
+3 5 1 7
+6 2 4 8
+
+-----
+Two sets: {3, 5, 1, 7} and {6, 2, 4, 8}
+The median is the 4th smallest value, which is 4.
