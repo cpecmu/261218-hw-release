@@ -1,0 +1,9 @@
+4
+1
+2
+4
+6
+-----
+4 items of value 1, 2, 4, 6
+Can give last item to first person, the rest to second person.
+First person has value 6, second has value 7, so minimum difference is 1.

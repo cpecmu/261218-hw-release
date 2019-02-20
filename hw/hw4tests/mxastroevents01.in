@@ -1,0 +1,15 @@
+9
+1
+-4
+-1
+4
+5
+-4
+6
+7
+-2
+
+-----
+9 astronomical events
+First event at coordinate 1, ..., last event at coordinate -2.
+Optimal solution: 4 observable events [0, 2, 5, 8]

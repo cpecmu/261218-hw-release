@@ -1,0 +1,11 @@
+6
+2
+6
+1
+2
+1
+8
+
+-----
+6-vertex path graph 2--6--1--2--1--8
+Max weight indep set is [1, 3, 5], with total weight 6+2+8 = 16.

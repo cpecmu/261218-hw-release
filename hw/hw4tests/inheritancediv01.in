@@ -1,0 +1,9 @@
+3
+5
+2
+3
+
+-----
+3 items of value 5, 2, 3
+Can give first item to first person, the rest to second person.
+Each person has value 5, so minimum difference is 0.

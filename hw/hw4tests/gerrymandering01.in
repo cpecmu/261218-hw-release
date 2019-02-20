@@ -1,0 +1,13 @@
+4 100
+55
+43
+60
+47
+
+-----
+4 precincts, 100 voters each
+First precinct has 55 voters for party A, ...,
+fourth precinct has 47 votes for party A.
+
+Susceptible to gerrymandering.
+A possible set of precincts for district 1: [0, 3]

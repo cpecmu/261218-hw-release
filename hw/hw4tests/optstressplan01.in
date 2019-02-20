@@ -1,0 +1,13 @@
+4
+10 5
+1 50
+10 5
+10 5
+
+-----
+4-week schedule
+low-stress revenues:  10  1 10 10
+high-stress revenues:  5 50  5  1
+
+An optimal plan: [none, high, low, low]
+Optimal plan value: 70
