@@ -1,0 +1,13 @@
+10 1
+0 2
+0 3
+0 4
+
+---
+supply of O = 10, demand of O = 1
+supply of A = 0, demand of A = 2
+supply of B = 0, demand of B = 3
+supply of AB = 0, demand of AB = 4
+
+Enough blood supply for demand, because type O can be given to any type.
+Expected result: true

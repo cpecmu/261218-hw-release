@@ -1,0 +1,25 @@
+4
+2
+2
+2
+2
+4
+Oz 2 0 1
+Panda 2 2 3
+Pepper 3 0 1 2
+Stranger 3 1 2 3
+
+---
+4 days, each day needs 2 doctors.
+4 doctors
+Dr. Oz is willing to work days 0, 1.
+Dr. Panda is willing to work days 2, 3.
+Dr. Pepper is willing to work days 0, 1, 2.
+Dr. Stranger is willing to work days 1, 2, 3.
+
+A valid duty schedule exists.
+For example:
+- day 0: Oz, Pepper
+- day 1: Oz, Stranger
+- day 2: Panda, Pepper
+- day 3: Panda, Stranger

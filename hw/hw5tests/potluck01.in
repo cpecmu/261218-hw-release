@@ -1,0 +1,25 @@
+4
+1
+2
+3
+4
+Chin 3 1 2 3
+Fluke 0
+Oat 1 3
+Tusave 2 1 4
+Chin 4
+Fluke 3
+Oat 2
+Tusave 2
+
+---
+4 nights (1, 2, 3, 4), 4 people (Chin, Fluke, Oat, Tusave)
+Chin is busy on nights 1, 2, 3.
+Fluke is not busy on any night.
+Oat is busy on night 3.
+Tusave is busy on nights 1, 4.
+Currently, Chin is assigned to cook on night 4, Fluke night 3, Oat night 2,
+and Tusave night 2.
+
+There exists a feasible potluck schedule.
+For example: (Chin 4) (Fluke 3) (Oat 1) (Tusave 2)

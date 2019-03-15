@@ -1,0 +1,13 @@
+1 1
+2 2
+3 3
+4 4
+
+---
+supply of O = 1, demand of O = 1
+supply of A = 2, demand of A = 2
+supply of B = 3, demand of B = 3
+supply of AB = 4, demand of AB = 4
+
+Enough blood supply for demand.
+Expected result: true

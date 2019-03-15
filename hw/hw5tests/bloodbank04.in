@@ -1,0 +1,13 @@
+0 1
+0 2
+0 3
+10 4
+
+---
+supply of O = 0, demand of O = 1
+supply of A = 0, demand of A = 2
+supply of B = 0, demand of B = 3
+supply of AB = 10, demand of AB = 4
+
+Not enough blood supply for demand, because type O demand cannot be met.
+Expected result: false
