@@ -1,0 +1,11 @@
+3
+b1 60 60 60
+b2 75 75 75
+b3 90 70 70
+
+---
+Three boxes.
+
+One possible nesting:
+b1 nests inside b2
+Possible answer: (2, [(b1, b2)])

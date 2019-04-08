@@ -1,0 +1,21 @@
+5
+m-15-16
+t-13-14
+w-10-11
+w-15-16
+r-10-11
+2
+ta1 2 m-15-16 w-15-16
+ta2 4 t-13-14 w-10-11 w-15-16 r-10-11
+1
+2
+3
+
+---
+Five slots, two TAs
+Each TA holds between 1 and 2 slots, for the total of 3 slots.
+
+One possible schedule:
+ta1 holds m-15-16
+ta2 holds t-13-14 r-10-11
+Possible answer: {ta1=[m-15-16], ta2=[t-13-14, r-10-11]}

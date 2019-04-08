@@ -1,0 +1,14 @@
+3
+1 2 15
+2 3 30
+3 1 20
+
+---
+Person 1 owes person 2 = 15.
+Person 2 owes person 3 = 30.
+Person 3 owes person 1 = 20.
+
+One possible reconciliation:
+Person 2 pays person 3 = 15
+Person 3 pays person 1 = 5
+Possible answer: [(2, 3, 15), (3, 1, 5)]

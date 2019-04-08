@@ -1,0 +1,19 @@
+5
+m-15-16
+t-13-14
+w-10-11
+w-15-16
+r-10-11
+2
+ta1 2 m-15-16 w-15-16
+ta2 2 m-15-16 w-15-16
+1
+2
+3
+
+---
+Five slots, two TAs
+Each TA holds between 1 and 2 slots, for the total of 3 slots.
+
+No possible schedule.
+Expected answer: null

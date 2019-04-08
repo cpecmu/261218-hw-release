@@ -11,4 +11,9 @@ public class Triple<T1, T2, T3> extends Pair<T1, T2> {
     public T3 trd() {
         return trd;
     }
+
+    @Override
+    public String toString() {
+        return "(" + fst + ", " + snd + ", " + trd + ")";
+    }
 }

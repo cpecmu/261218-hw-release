@@ -1,0 +1,10 @@
+3
+b1 90 50 50
+b2 60 80 60
+b3 70 70 70
+
+---
+Three boxes.
+
+No nesting is possible.
+Expected answer: (3, [])

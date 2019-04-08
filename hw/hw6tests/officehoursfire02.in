@@ -1,0 +1,28 @@
+5
+M 0
+T 0
+W 2
+R 1
+F 0
+5
+m-15-16 M
+t-13-14 T
+w-10-11 W
+w-15-16 W
+r-10-11 R
+2
+ta1 2 m-15-16 w-15-16
+ta2 4 t-13-14 w-10-11 w-15-16 r-10-11
+1
+2
+3
+
+---
+Five days, five slots, two TAs
+W needs at least 2 slots, R needs at least 1 slot.
+Each TA holds between 1 and 2 slots, for the total of 3 slots.
+
+One possible schedule:
+ta1 holds w-15-16
+ta2 holds w-10-11 r-10-11
+Possible answer: {ta1=[w-15-16], ta2=[w-10-11, r-10-11]}
