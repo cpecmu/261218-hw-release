@@ -1,5 +1,5 @@
-# 261218-261-hw-release
-Released code for 261218-261 homework assignments
+# 261218-hw-release
+Released code for 261218 homework assignments
 
 ## Code release structure
 [hw?] directory is the entry point for each homework assignment,
