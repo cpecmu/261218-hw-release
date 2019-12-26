@@ -15,7 +15,7 @@ public interface BloodBank {
      *          - demand[2] is the number of units of blood type B in need
      *          - demand[3] is the number of units of blood type AB in need
      * @return {@code true} if the given blood supply is enough for the
-     *          given demand; {@false} otherwise
+     *          given demand; {@code false} otherwise
      */
     boolean satisfiableInventory(int[] supply, int[] demand);
 }
