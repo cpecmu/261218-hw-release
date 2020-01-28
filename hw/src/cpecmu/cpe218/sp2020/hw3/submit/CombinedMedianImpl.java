@@ -12,7 +12,7 @@ import cpecmu.cpe218.sp2020.hw3.KthValueQueryImpl;
 public class CombinedMedianImpl implements CombinedMedian {
 
     /** input file name */
-    protected static final String inFile = "hw3tests/combmedian02.in";
+    protected static final String inFile = "hw3tests/combmedian01.in";
 
     @Override
     public int combinedMedian(KthValueQuery q) {
