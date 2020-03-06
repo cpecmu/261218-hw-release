@@ -1,4 +1,4 @@
-package cpecmu.cpe218.sp2020.hw6.submit;
+package cpecmu.cpe218.sp2020.hw5.submit;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 import cpecmu.cpe218.sp2020.Triple;
-import cpecmu.cpe218.sp2020.hw6.DebtReconciliation;
+import cpecmu.cpe218.sp2020.hw5.DebtReconciliation;
 
 public class DebtReconciliationImpl<F> implements DebtReconciliation<F> {
 
