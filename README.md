@@ -13,8 +13,18 @@ There may be additional directories as the course progresses.
 Some files may change locations as the course progresses.
 
 ## Managing source
-The released code has been implemented and tested on the Eclipse IDE and repl.it,
+The released code has been implemented and tested on
+Visual Studio Code, the Eclipse IDE, and repl.it,
 but it is possible to make it work with other IDEs also.
+
+### Visual Studio Code
+* Once you clone the Git repository, add the `hw` folder as a top-level folder
+in your workspace.
+* Install the Java Test Runner extension.
+* Above the `main` method, there should be the "Run" command that you can
+click on.  This should produce some output without errors.
+If you get a `FileNotFoundException`, check that your top-level folder for
+your workspace is `hw` and not some other directory.
 
 ### Eclipse IDE
 * If you are using Eclipse as your IDE, creating a new Java project from
