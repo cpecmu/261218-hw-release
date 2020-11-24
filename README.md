@@ -22,9 +22,12 @@ but it is possible to make it work with other IDEs also.
 in your workspace.
 * Install the Java Test Runner extension.
 * Above the `main` method, there should be the "Run" command that you can
-click on.  This should produce some output without errors.
-If you get a `FileNotFoundException`, check that your top-level folder for
-your workspace is `hw` and not some other directory.
+click on.
+    * There will be an error message that says,
+    "Build failed, do you want to continue?"  Click on Proceed.
+    * This should produce some output without errors.
+    If you get a `FileNotFoundException`, check that your top-level folder for
+    your workspace is `hw` and not some other directory.
 
 ### Eclipse IDE
 * If you are using Eclipse as your IDE, creating a new Java project from
