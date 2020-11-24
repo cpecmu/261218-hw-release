@@ -13,8 +13,10 @@ There may be additional directories as the course progresses.
 Some files may change locations as the course progresses.
 
 ## Managing source
-The released code has been implemented and tested on the Eclipse IDE,
+The released code has been implemented and tested on the Eclipse IDE and repl.it,
 but it is possible to make it work with other IDEs also.
+
+### Eclipse IDE
 * If you are using Eclipse as your IDE, creating a new Java project from
 existing code, with [hw?] as the main project directory, should set
 everything up for you nicely.  You should only need to select a Java
@@ -27,11 +29,23 @@ under many packages.  In Java, a directory represents a package.  If you
 set the source directory correctly, the packages should be in the right
 places for the Java compiler to look for.
 
+### repl.it
+If you are using repl.it as your IDE, you can run files directly by clicking on
+the "Run" button.  But before you do that, you need to edit the `.replit` file
+to choose the Java file you want to run.
+
+In `.replit` file, you need to change the `run` configuration to point to the
+desired homework set and the name of the file you would like to run,
+without the `...Impl.java` suffix.
+For example, to run the file `PeakFinderImpl.java`
+inside hw1, change the `run` configuration to the following:
+`run = "bash java-run.sh hw1 PeakFinder"`
+
 ## Dealing with test cases
 Sample test cases are located in the [hw?tests] directory under each assignment.
 If you use the Eclipse IDE, running the program should look for these files
 without much trouble, because the working directory is the main
-project directory, i.e., [hw?].  If you use other IDEs, you might need to set
+project directory, i.e., [hw].  If you use other IDEs, you might need to set
 the working directory to point to [hw?tests] when running the code, or change
 the path of the file in the released programs to point to the correct location.
 Don't worry, our grader will find our own test cases at the right places
