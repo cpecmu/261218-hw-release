@@ -1,2 +1,2 @@
 language = "java10"
-run = "bash java-run.sh hw1 ShortestPathCounter"
+run = "bash java-run.sh hw1 PeakFinder"
