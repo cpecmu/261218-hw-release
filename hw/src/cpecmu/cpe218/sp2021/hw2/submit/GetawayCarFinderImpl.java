@@ -17,7 +17,7 @@ public class GetawayCarFinderImpl implements GetawayCarFinder {
     public boolean hasMatchingTimestamps(int[] estimates, int[] errors,
             int[] timestamps) {
         // TODO Your code here
-        return false;
+        throw new RuntimeException("unimplemented");
     }
 
     public static void main(String[] args) {

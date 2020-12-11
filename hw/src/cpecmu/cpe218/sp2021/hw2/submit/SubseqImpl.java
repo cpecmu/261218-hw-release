@@ -17,7 +17,7 @@ public class SubseqImpl implements Subseq {
     @Override
     public <E> boolean isSubsequence(List<E> patterns, List<E> haystack) {
         // TODO Your code here
-        return false;
+        throw new RuntimeException("unimplemented");
     }
 
     public static void main(String[] args) {

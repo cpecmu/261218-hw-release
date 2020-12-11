@@ -17,7 +17,7 @@ public class ShortestPathCounterImpl implements ShortestPathCounter {
     @Override
     public <V> int numShortestPaths(Graph<V> g, V src, V dst) {
         // TODO Your code here
-        return 0;
+        return -1;
     }
 
     public static void main(String[] args) {

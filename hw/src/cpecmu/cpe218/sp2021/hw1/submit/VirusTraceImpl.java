@@ -19,7 +19,7 @@ public class VirusTraceImpl implements VirusTrace {
     public <V> boolean infected(List<Triple<V, V, Integer>> trace, V src, int x,
             V dst, int y) {
         // TODO Your code here
-        return false;
+        throw new RuntimeException("unimplemented");
     }
 
     public static void main(String[] args) {
