@@ -39,7 +39,7 @@ public class LimitedStreamingImpl implements LimitedStreaming {
     public List<Pair<Integer, Integer>> hasStreamSchedule(
             List<Pair<Integer, Integer>> streams, int quota) {
         // TODO Your code here
-        return null;
+        throw new RuntimeException("unimplemented");
     }
 
     public static void main(String[] args) {
